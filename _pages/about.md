@@ -18,7 +18,7 @@ Educational Background
 <div style="margin-bottom: 20px;">
   <h3 style="margin-bottom: 10px;">
     <i class="fa fa-graduation-cap" aria-hidden="true" style="color: #52adc8;"></i> 
-    Bachelor of Engineering in Artificial Intelligence
+    Bachelor of Artificial Intelligence
   </h3>
   <p style="margin-left: 25px; margin-bottom: 5px;">
     <i class="fa fa-university" aria-hidden="true" style="color: #7a8288;"></i> 
