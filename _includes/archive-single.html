@@ -43,7 +43,27 @@
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+         {% if post.collection == 'highlighted-projects' %}
+           {% if post.project_date %}
+             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Completed:</strong> <time datetime="{{ post.project_date | date_to_xmlschema }}">{{ post.project_date | date: "%B %d, %Y" }}</time></p>
+           {% else %}
+             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Completed:</strong> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></p>
+           {% endif %}
+           {% if post.status %}
+             <p><strong>Status:</strong> {{ post.status }}</p>
+           {% endif %}
+           {% if post.team %}
+             <p><strong>Team:</strong> {{ post.team }}</p>
+           {% endif %}
+           {% if post.github %}
+             <p><strong>GitHub:</strong> <a href="{{ post.github }}" target="_blank">{{ post.github }}</a></p>
+           {% endif %}
+           {% if post.duration %}
+             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Duration:</strong> {{ post.duration }}</p>
+           {% endif %}
+         {% else %}
+           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+         {% endif %}
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
