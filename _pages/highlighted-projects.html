@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Highlighted Projects"
+permalink: /highlighted-projects/
+author_profile: true
+---
+
+<p>Here are some of my highlighted projects and talks.</p>
+
+{% for post in site.highlighted-projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
