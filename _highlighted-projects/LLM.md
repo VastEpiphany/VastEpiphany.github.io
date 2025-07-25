@@ -5,6 +5,14 @@ type: "Course Project"
 permalink: /highlighted-projects/LLMS_Bilingual_Final_Project.pdf
 duration: "Oct 10, 2024 - Nov 15, 2024"
 github: "https://github.com/VastEpiphany/HearMeGLM"
+project_image: "/images/500x300.png"
+project_image_alt: "HearMeGLM psychological counseling model"
+project_image_caption: "Large Language Model for Psychological Counseling"
+--- "Large Language Model Course Final Assignment: HearMeGLM Psychological Counseling LLM"
+
+#project_image: "/images/LLM-project.png"
+#project_image_alt: "HearMeGLM psychological counseling model architecture"
+#project_image_caption: "HearMeGLM model architecture and training process"
 ---
 
 <p style="text-align: justify;">

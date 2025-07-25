@@ -39,3 +39,21 @@ Educational Background
 
 Honors and Awards
 =====
+
+** To be Continued... **
+
+<div style="margin-bottom: 20px;">
+  <h3 style="margin-bottom: 10px;">
+    <i class="fa fa-trophy" aria-hidden="true" style="color: gold;"></i> 
+    2024 COMAP The Mathematical Contest in Modeling
+  </h3>
+  <p style="margin-left: 25px; margin-bottom: 5px;">
+    <i class="fa fa-certificate" aria-hidden="true" style="color: #52adc8;"></i> 
+    Name
+  </p>
+  <p style="margin-left: 25px; margin-bottom: 10px;">
+    <i class="fa fa-star" aria-hidden="true" style="color: orange;"></i> 
+    Meritorious
+  </p>
+
+</div>
