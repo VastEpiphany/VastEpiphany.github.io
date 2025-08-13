@@ -9,6 +9,7 @@ duration: "Dec 2023 - Jan 2024"
 project_image: "/images/ML.png"
 project_image_alt: "Enhanced Quantitative Trading Strategies based on ML"
 project_image_caption: "Paper：Enhanced Quantitative Trading Strategies based on ML"
+github: https://github.com/VastEpiphany/Prediction-Stock-Market-Project-Archived-
 ---
 
 <p style="text-align: justify;">
