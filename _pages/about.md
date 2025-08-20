@@ -90,6 +90,29 @@ Honors and Awards
   
 </div>
 
+<!--2023 Baidu Paddle-Paddle-->
+<div style="margin-bottom: 20px;">
+  <h3 style="margin-bottom: 10px;">
+    <i class="fa fa-trophy" aria-hidden="true" style="color: gold;"></i> 
+    Future Technology - Baidu PaddlePaddle Cup Student Technology Works Competition, 2023
+  </h3>
+  <p style="margin-left: 25px; margin-bottom: 10px; display: flex; align-items: center;">
+    <i class="fa fa-object-group" aria-hidden="true" style="color: green;"></i> 
+    School of Future Technology, SCUT
+  </p>
+  <p style="margin-left: 25px; margin-bottom: 5px; display: flex; align-items: center;">
+  <i class="fa fa-certificate" aria-hidden="true" style="color: #52adc8;"></i>
+  <em>
+  Smart Lamp Project
+  </em>
+</p>
+  <p style="margin-left: 25px; margin-bottom: 10px;">
+    <i class="fa fa-star" aria-hidden="true" style="color: orange;"></i> 
+    <strong>First Prize, First Place</strong>
+  </p>
+  
+</div>
+
 
 <!--2024 Greater Bay-->
 <div style="margin-bottom: 20px;">
@@ -143,4 +166,58 @@ Honors and Awards
 
 ## Scholarships & Honors
 
+
+
+<div style="margin-bottom: 20px;">
+<h3 style="margin-bottom: 10px; display: flex; align-items: center;">
+  <i class="fa fa-trophy" aria-hidden="true" style="color: gold; margin-right: 8px;"></i>
+  <span>
+    Future Technology Taihu Innovation Award, 2023
+  </span>
+</h3>
+<p style="margin-left: 25px; margin-bottom: 10px; display: flex; align-items: center;">
+    <i class="fa fa-object-group" aria-hidden="true" style="color: green;"></i> 
+    School of Future Technology, SCUT
+</p>
+  <p style="margin-left: 25px; margin-bottom: 10px;">
+    <i class="fa fa-star" aria-hidden="true" style="color: orange;"></i> 
+    <strong>Academic Award, Third Prize</strong>
+  </p>
+</div>
+
+<div style="margin-bottom: 20px;">
+<h3 style="margin-bottom: 10px; display: flex; align-items: center;">
+  <i class="fa fa-trophy" aria-hidden="true" style="color: gold; margin-right: 8px;"></i>
+  <span>
+    Future Technology Taihu Innovation Award, 2024
+  </span>
+</h3>
+<p style="margin-left: 25px; margin-bottom: 10px; display: flex; align-items: center;">
+    <i class="fa fa-object-group" aria-hidden="true" style="color: green;"></i> 
+    School of Future Technology, SCUT
+</p>
+  <p style="margin-left: 25px; margin-bottom: 10px;">
+    <i class="fa fa-star" aria-hidden="true" style="color: orange;"></i> 
+    <strong>Academic Award, Third Prize</strong>
+  </p>
+</div>
+
+<div style="margin-bottom: 20px;">
+<h3 style="margin-bottom: 10px; display: flex; align-items: center;">
+  <i class="fa fa-trophy" aria-hidden="true" style="color: gold; margin-right: 8px;"></i>
+  <span>
+    Hongping-Changqing Academic Scholarship, 2024
+  </span> 
+</h3>
+<p style="margin-left: 25px; margin-bottom: 10px; display: flex; align-items: center;">
+    <i class="fa fa-object-group" aria-hidden="true" style="color: green;"></i> 
+    South China University of Technology; Skyworth Group
+</p>
+  <p style="margin-left: 25px; margin-bottom: 10px;">
+    <i class="fa fa-star" aria-hidden="true" style="color: orange;"></i> 
+    <strong>Academic Award, Third Prize</strong>
+  </p>
+</div>
+
 ** To be Continued... **
+
