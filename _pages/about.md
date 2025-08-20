@@ -40,20 +40,107 @@ Educational Background
 Honors and Awards
 =====
 
-** To be Continued... **
 
+
+## Academic Competitions
+<!--COMAP MCM-->
 <div style="margin-bottom: 20px;">
   <h3 style="margin-bottom: 10px;">
     <i class="fa fa-trophy" aria-hidden="true" style="color: gold;"></i> 
     2024 COMAP The Mathematical Contest in Modeling
   </h3>
-  <p style="margin-left: 25px; margin-bottom: 5px;">
-    <i class="fa fa-certificate" aria-hidden="true" style="color: #52adc8;"></i> 
-    Name
+  <p style="margin-left: 25px; margin-bottom: 10px;">
+    <i class="fa fa-object-group" aria-hidden="true" style="color: green;"></i> 
+    COMAP
   </p>
+  <p style="margin-left: 25px; margin-bottom: 5px; display: flex; align-items: center;">
+  <i class="fa fa-certificate" aria-hidden="true" style="color: #52adc8;"></i>
+  <em>
+  Problem C Solution: Decoding Game Dynamics: Integrating Swing and Momentum in Competitive Sports Analysis
+  </em>
+</p>
   <p style="margin-left: 25px; margin-bottom: 10px;">
     <i class="fa fa-star" aria-hidden="true" style="color: orange;"></i> 
-    Meritorious
+    <strong>Meritorious Winner</strong>
   </p>
 
 </div>
+
+
+<!--2024 Mathorcup-->
+<div style="margin-bottom: 20px;">
+  <h3 style="margin-bottom: 10px;">
+    <i class="fa fa-trophy" aria-hidden="true" style="color: gold;"></i> 
+    The 14th Mathorcup Mathematical Application Challenge, 2024
+  </h3>
+  <p style="margin-left: 25px; margin-bottom: 10px; display: flex; align-items: center;">
+    <i class="fa fa-object-group" aria-hidden="true" style="color: green;"></i> 
+    Chinese Society of Optimization, Overall Planning and Economic Mathematics
+  </p>
+  <p style="margin-left: 25px; margin-bottom: 5px; display: flex; align-items: center;">
+  <i class="fa fa-certificate" aria-hidden="true" style="color: #52adc8;"></i>
+  <em>
+  Research on Dynamic Forecasting of Cargo Volume in E-commerce Logistics Sorting Centers and Efficiency Scheduling Strategies
+  </em>
+</p>
+  <p style="margin-left: 25px; margin-bottom: 10px;">
+    <i class="fa fa-star" aria-hidden="true" style="color: orange;"></i> 
+    <strong>First Prize at the National & Provincial Level</strong>
+  </p>
+  
+</div>
+
+
+<!--2024 Greater Bay-->
+<div style="margin-bottom: 20px;">
+  <h3 style="margin-bottom: 10px; display: flex; align-items: center;">
+  <i class="fa fa-trophy" aria-hidden="true" style="color: gold; margin-right: 8px;"></i>
+  <span>
+    The 5th "Greater Bay Area Cup" Financial Mathematical Modeling Competition for Guangdong, Hong Kong and Macau, 2024
+  </span>
+</h3>
+  <p style="margin-left: 25px; margin-bottom: 10px; display: flex; align-items: center;">
+    <i class="fa fa-object-group" aria-hidden="true" style="color: green;"></i> 
+    Guangdong-Hong Kong-Macau Center for Applied Mathematics
+  </p>
+  <p style="margin-left: 25px; margin-bottom: 5px; display: flex; align-items: center;">
+  <i class="fa fa-certificate" aria-hidden="true" style="color: #52adc8;"></i>
+  <em>
+  Economic Growth Forecast for the Guangdong-Hong Kong-Macau Greater Bay Area: A Study on Integrated Modeling Based on Multiple Factors and Time Series
+  </em>
+</p>
+  <p style="margin-left: 25px; margin-bottom: 10px;">
+    <i class="fa fa-star" aria-hidden="true" style="color: orange;"></i> 
+    <strong>Second Prize</strong>
+  </p>
+  
+</div>
+
+<!--2024 APMCM-->
+<div style="margin-bottom: 20px;">
+  <h3 style="margin-bottom: 10px; display: flex; align-items: center;">
+  <i class="fa fa-trophy" aria-hidden="true" style="color: gold; margin-right: 8px;"></i>
+  <span>
+    Asia and Pacific Mathematical Contest in Modeling, 2024
+  </span>
+</h3>
+  <p style="margin-left: 25px; margin-bottom: 10px; display: flex; align-items: center;">
+    <i class="fa fa-object-group" aria-hidden="true" style="color: green;"></i> 
+    CIAPST JoT Working Committee; Beijing Society of Image and Graphics; APMCM Organizing Committee
+  </p>
+  <p style="margin-left: 25px; margin-bottom: 5px; display: flex; align-items: center;">
+  <i class="fa fa-certificate" aria-hidden="true" style="color: #52adc8;"></i>
+  <em>
+  Integrated Multi-Model Framework for Dynamic Analysis of the Pet Industry
+  </em>
+</p>
+  <p style="margin-left: 25px; margin-bottom: 10px;">
+    <i class="fa fa-star" aria-hidden="true" style="color: orange;"></i> 
+    <strong>Third Prize</strong>
+  </p>
+  
+</div>
+
+## Scholarships & Honors
+
+** To be Continued... **
